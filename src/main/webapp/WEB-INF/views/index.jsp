@@ -8,11 +8,7 @@
 </head>
 <body>
 <h3>SpringMVC + Hibernate + Antnation project</h3>
-<h3>Group 01 - 31/05/2017</h3>
-<h4>Tran Thai Hieu</h4>
-<h4>Tran Van Tin</h4>
-<h4>Dinh Duy Hiep</h4>
-<h4>Duong Ai Chau</h4>
-<a href="/persons">Add Person</a>
+<h3>Nhom 14</h3>
+<a href="/persons">Add</a>
 </body>
 </html>
